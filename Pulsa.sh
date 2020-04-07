@@ -109,6 +109,7 @@ echo "╠═▶\033[0m Jumlah Yang Anda Masukkan Sukses   \033[1;33m║"
 echo "\033[1;33m╠═▶ \033[0mSilahkan Tunggu 5 Menit...         \033[1;33m║"
 echo "\033[1;33m╠═════════════════════════╦════════════╝"
 echo "║ \033[34mKetik \033[1;33mexit \033[34mUntuk Keluar\033[1;33m ║"
+echo "║ \033[34mJangan lupa Subscribe                               ║"
 echo "╠═════════════════════════╝"
 python gcroup.py
 read -p '╚═▶' nolorr1; 
